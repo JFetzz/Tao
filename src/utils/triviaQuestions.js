@@ -1,5 +1,4 @@
 const triviaQuestions = [
-    { question: "What color is an emerald?", answer: "Green" },
     { question: "What gas do plants breathe in that humans and animals breathe out?", answer: "Carbon dioxide" },
     { question: "How many legs does a spider have?", answer: "Eight" },
     { question: "What is the name of the toy cowboy in 'Toy Story'?", answer: "Woody" },
